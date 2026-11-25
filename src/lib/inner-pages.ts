@@ -58,7 +58,7 @@ export const INNER_PAGES: Record<string, InnerPageMeta> = {
   "agentic-ai": {
     "slug": "agentic-ai",
     "title": "AI Agent Development Services",
-    "description": "We design, build and run AI agents that complete multi-step business processes inside your ERP, CRM and service platforms. You set what they may do; they log…",
+    "description": "We design, engineer, and run production-grade agentic AI solutions that complete multi-step business workflows inside your ERP, CRM, and service platforms.",
     "family": "solution"
   },
   "enterprise-workflow-automation": {
@@ -70,7 +70,7 @@ export const INNER_PAGES: Record<string, InnerPageMeta> = {
   "data-engineering-services": {
     "slug": "data-engineering-services",
     "title": "Data Engineering Services",
-    "description": "AI is only as good as the data beneath it. We modernize your data platforms and pipelines, structured and unstructured, batch and real time, so every AI use…",
+    "description": "Great AI fails on broken data. Our data engineering services unify, clean, and govern your pipelines so AI ships faster and scales safely.",
     "family": "solution"
   },
   "ai-cloud-engineering": {
